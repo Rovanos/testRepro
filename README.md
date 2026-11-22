@@ -267,6 +267,34 @@ Pure registration is an important part of making research software discoverable 
 For this project, registration will be considered at a suitable research milestone rather than during early software development.
 
 
+## Software Promotion and Maintenance
+
+### Promotion Strategy
+
+The software is currently under development and has not yet been publicly released.
+
+Once a stable version is available, the project may be promoted through related scientific publications, conference presentations, research collaborations, and appropriate research software directories.
+
+The GitHub repository will serve as the main development platform, while archived releases and associated DOIs will support long-term discovery and citation.
+
+### Maintenance Strategy
+
+The software will initially be maintained by its developer during the PhD research project.
+
+Maintenance activities will include:
+
+- Reviewing and correcting reported bugs.
+- Updating documentation and reproducibility instructions.
+- Reviewing software dependencies.
+- Adding tests when new functionality is introduced.
+- Recording significant changes in `CHANGELOG.md`.
+
+Contributions and issue reports may be considered as the project develops. See [`CONTRIBUTING.md`](CONTRIBUTING.md) for further information.
+
+### Current Status
+
+The software is a research prototype. Public promotion and long-term maintenance arrangements will be reviewed when a stable release is prepared.
+
 ## Acknowlegdements
 
 - [Best practices for sustainable software project, TDCC NES](https://github.com/SS-NES)
