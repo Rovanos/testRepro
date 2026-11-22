@@ -1,0 +1,14 @@
+# Changes here will be overwritten by Copier; NEVER EDIT MANUALLY
+_commit: v0.0.3
+_src_path: https://github.com/delapazruiz/fairRcode.git
+authors: Iowner me Rovanos
+citation: true
+code_of_conduct: true
+community: false
+contact_email: r.tsafack@gmail.com
+copyright_holder: Iowner me Rovanos
+copyright_year: 2026
+owner: Iowner me
+software_license: MIT License
+software_name: R
+software_purpose: The purpose of R is ...Write a code for my project
