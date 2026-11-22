@@ -1,0 +1,14 @@
+# Changes here will be overwritten by Copier; NEVER EDIT MANUALLY
+_commit: v0.0.3
+_src_path: https://github.com/delapazruiz/fairRcode.git
+authors: Iowner Rovanos
+citation: true
+code_of_conduct: true
+community: false
+contact_email: r.tsafacknzanguim@utwente.nl
+copyright_holder: Iowner Rovanos
+copyright_year: 2026
+owner: Iowner Rovanos
+software_license: MIT License
+software_name: Python
+software_purpose: The purpose of Python is ...project coding
