@@ -162,6 +162,14 @@ project-root/
 └── renv.lock               # Reproducibility: R environment snapshot
 ```
 
+### Research Code
+
+The `code/permutation/` directory contains R scripts developed for investigating permutation-based multiple testing procedures under dependence.
+
+The file `PermutedA.R` provides a simulation example that generates dependent Gaussian observations, introduces non-null hypotheses, computes observed two-sided Gaussian p-values, and generates sign-flipped reference statistics.
+
+The script includes a fixed random seed to support reproducible simulation results. The current implementation is a research prototype, and further testing and documentation will be added as part of the software management workflow.
+
 ## Installation
 
 [Describe the steps that users (not developers) should follow to install the code in each of the intended platforms (e.g. Window 10, MacOS, etc.).]
@@ -171,7 +179,7 @@ project-root/
 - [State any relevant hardware requirements.]
 
 ## License
-This software is distributed under a [CC-BY](LICENSE). 
+This software is distributed under a [MIT](LICENSE). 
 
 ## Copyright
 
