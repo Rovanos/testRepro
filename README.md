@@ -133,10 +133,15 @@ Stable releases will be versioned and archived when appropriate.
   <img src="img/UT_Logo_0072_Black_EN.png" alt="logo">
 </div>
 
-A template to comply with the [University of Twente Research Software Guidelines](https://zenodo.org/records/15807424) for making your software project FAIR.
+## Research Software Management and FAIR Principles
 
-To align with FAIR4RS (Findable, Accessible, Interoperable, Reusable for Research Software) and Dutch Open Science standards (supported by institutions like NWO and eScience Center), your R project should be treated as a research software package. 
+This repository contains research software developed as part of a PhD project investigating permutation-based multiple hypothesis testing under dependence.
 
+The project follows the [University of Twente Research Software Guidelines](https://zenodo.org/records/15807424) and aims to align with the FAIR4RS (Findable, Accessible, Interoperable, Reusable for Research Software) principles.
+
+The repository includes a Software Management Plan (SMP), version-controlled R code, reproducibility tests, documentation, software citation metadata, and strategies for archiving, institutional registration, and long-term maintenance.
+
+The software is currently under development. Public release, archiving with a DOI, and registration in the University of Twente's Pure system are planned for an appropriate future research milestone.
 
 ## Software Archiving and DOI Strategy
 
