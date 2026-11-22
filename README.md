@@ -219,11 +219,20 @@ This software is distributed under a [MIT](LICENSE).
 
 &copy; , The Netherlands. 
 
+
 ## Citation
 
-[Include a [CCF file (Citaion File Format)](https://citation-file-format.github.io/). See example in this repo: `CITATION.cff`. You can easily create the content of a CCF using [this tool](https://citation-file-format.github.io/cff-initializer-javascript/). ]
+If you use this software in your research, please cite it using the metadata provided in the [`CITATION.cff`](CITATION.cff) file.
 
-[CCF files can be converted to a multitude of formats, including BibTex,  EndNote, codemeta, plain JSON, schema.org, RIS, and Zenodo JSON ]
+**Software:** *Permutation-Based Multiple Testing under Dependence*
+
+**Author:** Rovanos Tsafack
+
+**Repository:** https://github.com/Rovanos/testRepro
+
+The software is currently under development and has not yet been assigned a DOI. Citation information will be updated when a stable version is archived.
+
+GitHub can use the `CITATION.cff` file to display citation information for the repository.
 
 ## Acknowlegdements
 
