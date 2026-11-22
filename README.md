@@ -137,6 +137,37 @@ A template to comply with the [University of Twente Research Software Guidelines
 
 To align with FAIR4RS (Findable, Accessible, Interoperable, Reusable for Research Software) and Dutch Open Science standards (supported by institutions like NWO and eScience Center), your R project should be treated as a research software package. 
 
+
+## Software Archiving and DOI Strategy
+
+### Why archive the software?
+
+Archiving research software supports long-term preservation, reproducibility, and scientific citation. A Digital Object Identifier (DOI) provides a persistent reference to a specific software release, even if active development on GitHub later stops.
+
+### When will the software be archived?
+
+The software is currently under development as part of a PhD research project. A stable version is intended to be archived when the implementation, documentation, and tests are sufficiently mature, particularly around the submission or publication of a related research article.
+
+Before archiving, software ownership, licensing, and any journal requirements concerning software publication will be reviewed.
+
+### How will the software be archived?
+
+The planned workflow is:
+
+1. Review the code, documentation, tests, and software license.
+2. Prepare a versioned GitHub release, such as `v1.0.0`.
+3. Archive the release using Zenodo or another suitable trusted research software repository.
+4. Obtain a DOI for the archived version.
+5. Add the DOI to the README and `CITATION.cff`.
+6. Cite the archived software version in related scientific publications.
+
+### Current status
+
+No DOI has been obtained for this software. Archiving is planned for a future stable release.
+
+This section documents the intended archiving process as part of the University of Twente Research Software Management Training assignment.
+
+
 ## Folder Structure
 
 Recommended structure for an R research software at UT.
@@ -169,6 +200,9 @@ The `code/permutation/` directory contains R scripts developed for investigating
 The file `PermutedA.R` provides a simulation example that generates dependent Gaussian observations, introduces non-null hypotheses, computes observed two-sided Gaussian p-values, and generates sign-flipped reference statistics.
 
 The script includes a fixed random seed to support reproducible simulation results. The current implementation is a research prototype, and further testing and documentation will be added as part of the software management workflow.
+
+
+
 
 ## Installation
 
