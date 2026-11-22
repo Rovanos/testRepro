@@ -234,6 +234,39 @@ The software is currently under development and has not yet been assigned a DOI.
 
 GitHub can use the `CITATION.cff` file to display citation information for the repository.
 
+
+
+## Registration in University of Twente Pure
+
+### Purpose
+
+The University of Twente's Pure research information system provides a way to register and showcase research outputs associated with the university.
+
+Registering research software in Pure can improve its visibility, support institutional reporting, and help connect the software to related research publications.
+
+### Current Status
+
+This software is currently under development as part of a PhD research project and has not yet been registered in Pure.
+
+Registration is planned when an appropriate software version is ready for release and the necessary publication and licensing requirements have been reviewed.
+
+### Planned Registration Process
+
+Before registration, the following actions are intended:
+
+1. Prepare a stable, documented version of the research software.
+2. Review the applicable software ownership and licensing requirements.
+3. Archive the software in a suitable repository and obtain a DOI, when appropriate.
+4. Register the software as a research output in the University of Twente's Pure system, following the university's current procedures.
+5. Associate the software record with its authors, repository, archived version, and related research publications.
+
+### Reflection
+
+Pure registration is an important part of making research software discoverable and giving appropriate academic recognition to its developers.
+
+For this project, registration will be considered at a suitable research milestone rather than during early software development.
+
+
 ## Acknowlegdements
 
 - [Best practices for sustainable software project, TDCC NES](https://github.com/SS-NES)
