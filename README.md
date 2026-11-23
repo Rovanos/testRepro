@@ -1,5 +1,9 @@
 # Permutation-Based Multiple Testing under Dependence
 
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24485019.svg)](https://doi.org/10.5281/zenodo.24485019)
+
+
 ## Project Description
 
 This repository contains R code developed as part of a PhD research project on **multiple hypothesis testing under dependence**, with a particular focus on permutation-based methods and e-value-based multiple testing procedures.
@@ -166,11 +170,14 @@ The planned workflow is:
 5. Add the DOI to the README and `CITATION.cff`.
 6. Cite the archived software version in related scientific publications.
 
-### Current status
+### Current Status
 
-No DOI has been obtained for this software. Archiving is planned for a future stable release.
+The first version of this research software, **v0.1.0**, has been released on GitHub and archived in Zenodo.
 
-This section documents the intended archiving process as part of the University of Twente Research Software Management Training assignment.
+- **GitHub release:** https://github.com/Rovanos/testRepro/releases/tag/v0.1.0
+- **Zenodo DOI:** https://doi.org/10.5281/zenodo.24485019
+
+This archived release provides a persistent, citable snapshot of the research software. Future software versions will be documented through GitHub releases and archived as appropriate.
 
 
 ## Folder Structure
