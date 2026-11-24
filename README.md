@@ -153,11 +153,11 @@ The software is currently under development. Public release, archiving with a DO
 
 Archiving research software supports long-term preservation, reproducibility, and scientific citation. A Digital Object Identifier (DOI) provides a persistent reference to a specific software release, even if active development on GitHub later stops.
 
-### When will the software be archived?
+The first version of this research software (v0.1.0) has been released on GitHub and archived on Zenodo.
 
-The software is currently under development as part of a PhD research project. A stable version is intended to be archived when the implementation, documentation, and tests are sufficiently mature, particularly around the submission or publication of a related research article.
+**Zenodo DOI:** https://doi.org/10.5281/zenodo.24485019
 
-Before archiving, software ownership, licensing, and any journal requirements concerning software publication will be reviewed.
+The software remains under active development. Future releases will be documented and archived as appropriate.
 
 ### How will the software be archived?
 
