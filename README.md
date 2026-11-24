@@ -242,7 +242,7 @@ If you use this software in your research, please cite it using the metadata pro
 
 **Repository:** https://github.com/Rovanos/testRepro
 
-The software is currently under development and has not yet been assigned a DOI. Citation information will be updated when a stable version is archived.
+The first version of this research software (v0.1.0) has been released on GitHub and archived on Zenodo. Its DOI is https://doi.org/10.5281/zenodo.24485019. The software remains under active development.
 
 GitHub can use the `CITATION.cff` file to display citation information for the repository.
 
@@ -283,7 +283,7 @@ For this project, registration will be considered at a suitable research milesto
 
 ### Promotion Strategy
 
-The software is currently under development and has not yet been publicly released.
+The first public version of this software (v0.1.0) has been released on GitHub and archived on Zenodo. The software remains an early research prototype.
 
 Once a stable version is available, the project may be promoted through related scientific publications, conference presentations, research collaborations, and appropriate research software directories.
 
